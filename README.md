@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning HTML & CSS / JS
 
-- I Make the #100DaysOfCode
+- 👩🏾‍💻 I Make the #100DaysOfCode
  
 - Goal: Developer Front-end
 
-- I Love read 📚
+- 📚 Love read 📚
 
 - I also write 🖊️	https://medium.com/@Code_And_Write
  https://code-and-shine.hashnode.dev
