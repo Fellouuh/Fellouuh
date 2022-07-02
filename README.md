@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Fellouuh
+- 👋 Hi, I’m @PlumeTech
 
 - 🌱 I’m currently learning HTML & CSS / JS
+
+- I Make the #100DaysOfCode
  
 - Goal: Developer Front-end
+
+- I Love read 📚
+
+- I also write 🖊️ --- 	https://medium.com/@Code_And_Write
+                       code-and-shine.hashnode.dev
+
+- You can Follow me on twitter just here : @Code_And_Write
 
 
 <!---
