@@ -8,8 +8,8 @@
 
 - I Love read 📚
 
-- I also write 🖊️ --- 	https://medium.com/@Code_And_Write
-                       https://code-and-shine.hashnode.dev
+- I also write 🖊️	https://medium.com/@Code_And_Write
+ https://code-and-shine.hashnode.dev
 
 - You can Follow me on twitter just here : @Code_And_Write
 
